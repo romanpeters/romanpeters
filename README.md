@@ -36,5 +36,13 @@
       height="40"
     />
   </a>
+  <a href="https://nixos.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg"
+      alt="nixos"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
     
