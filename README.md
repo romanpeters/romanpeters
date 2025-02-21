@@ -46,7 +46,7 @@
   </a>
   <a href="https://www.terraform.io" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/terraform-original.svg"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
       alt="terraform"
       width="40"
       height="40"
