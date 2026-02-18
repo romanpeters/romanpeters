@@ -1,8 +1,3 @@
-
-![banner](https://i.imgur.com/xbN0tc4.gif)
-
----
-
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img
@@ -24,6 +19,14 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
       alt="flask"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
+      alt="kubernetes"
       width="40"
       height="40"
     />
@@ -53,4 +56,3 @@
     />
   </a>
 </p>
-    
